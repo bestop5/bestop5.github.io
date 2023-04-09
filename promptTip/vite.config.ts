@@ -11,9 +11,9 @@ import * as process from "process"
 let config = {
     root: "./web",
     base: "/promptTip/",
-//     server: {
-//         port: 80,
-//     },
+    server: {
+        port: 80,
+    },
     worker: {
         format: "es",
     },
