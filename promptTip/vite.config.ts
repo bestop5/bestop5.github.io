@@ -9,11 +9,11 @@ import * as process from "process"
 
 // https://vitejs.dev/config/
 let config = {
-    root: "./web",
-    base: "./apps/ops/",
-    server: {
-        port: 80,
-    },
+    root: "./promptTip/web",
+    base: "./promptTip/apps/ops/",
+//     server: {
+//         port: 80,
+//     },
     worker: {
         format: "es",
     },
