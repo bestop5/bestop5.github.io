@@ -9,8 +9,8 @@ import * as process from "process"
 
 // https://vitejs.dev/config/
 let config = {
-    root: "./promptTip/web",
-    base: "./promptTip/apps/ops/",
+    root: "./web",
+    base: "/promptTip/",
 //     server: {
 //         port: 80,
 //     },
